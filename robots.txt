@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-g2yfeq.indowin.cfd/sitemap.xml
